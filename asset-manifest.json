@@ -1,22 +1,18 @@
 {
   "files": {
-    "main.css": "/bungieapp/static/css/main.a8750211.chunk.css",
-    "main.js": "/bungieapp/static/js/main.6d872b45.chunk.js",
-    "main.js.map": "/bungieapp/static/js/main.6d872b45.chunk.js.map",
-    "runtime-main.js": "/bungieapp/static/js/runtime-main.8574466e.js",
-    "runtime-main.js.map": "/bungieapp/static/js/runtime-main.8574466e.js.map",
-    "static/js/2.cbef58c8.chunk.js": "/bungieapp/static/js/2.cbef58c8.chunk.js",
-    "static/js/2.cbef58c8.chunk.js.map": "/bungieapp/static/js/2.cbef58c8.chunk.js.map",
-    "index.html": "/bungieapp/index.html",
-    "precache-manifest.56d28e34445bffd8d208b7353eaa267a.js": "/bungieapp/precache-manifest.56d28e34445bffd8d208b7353eaa267a.js",
-    "service-worker.js": "/bungieapp/service-worker.js",
-    "static/css/main.a8750211.chunk.css.map": "/bungieapp/static/css/main.a8750211.chunk.css.map",
-    "static/js/2.cbef58c8.chunk.js.LICENSE.txt": "/bungieapp/static/js/2.cbef58c8.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.80951a58.chunk.css",
+    "main.js": "./static/js/main.6d872b45.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.fd3de2a1.js",
+    "static/js/2.cbef58c8.chunk.js": "./static/js/2.cbef58c8.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.a728172fb462bbadf33dcf0d0d94bd0a.js": "./precache-manifest.a728172fb462bbadf33dcf0d0d94bd0a.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.cbef58c8.chunk.js.LICENSE.txt": "./static/js/2.cbef58c8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8574466e.js",
+    "static/js/runtime-main.fd3de2a1.js",
     "static/js/2.cbef58c8.chunk.js",
-    "static/css/main.a8750211.chunk.css",
+    "static/css/main.80951a58.chunk.css",
     "static/js/main.6d872b45.chunk.js"
   ]
 }
