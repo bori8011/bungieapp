@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bungieapp/precache-manifest.61066d63d5399b77d2bca337b8e9a2fb.js"
+  "/bungieapp/precache-manifest.ef9245c30123adf1c20adaf1ee5dd49f.js"
 );
 
 self.addEventListener('message', (event) => {
