@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/bungieapp/static/css/main.a8750211.chunk.css",
+    "main.js": "/bungieapp/static/js/main.0dd223ae.chunk.js",
+    "main.js.map": "/bungieapp/static/js/main.0dd223ae.chunk.js.map",
+    "runtime-main.js": "/bungieapp/static/js/runtime-main.d1bb0cd7.js",
+    "runtime-main.js.map": "/bungieapp/static/js/runtime-main.d1bb0cd7.js.map",
+    "static/js/2.8624f54b.chunk.js": "/bungieapp/static/js/2.8624f54b.chunk.js",
+    "static/js/2.8624f54b.chunk.js.map": "/bungieapp/static/js/2.8624f54b.chunk.js.map",
+    "static/js/3.15856599.chunk.js": "/bungieapp/static/js/3.15856599.chunk.js",
+    "static/js/3.15856599.chunk.js.map": "/bungieapp/static/js/3.15856599.chunk.js.map",
+    "index.html": "/bungieapp/index.html",
+    "precache-manifest.61066d63d5399b77d2bca337b8e9a2fb.js": "/bungieapp/precache-manifest.61066d63d5399b77d2bca337b8e9a2fb.js",
+    "service-worker.js": "/bungieapp/service-worker.js",
+    "static/css/main.a8750211.chunk.css.map": "/bungieapp/static/css/main.a8750211.chunk.css.map",
+    "static/js/2.8624f54b.chunk.js.LICENSE.txt": "/bungieapp/static/js/2.8624f54b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1bb0cd7.js",
+    "static/js/2.8624f54b.chunk.js",
+    "static/css/main.a8750211.chunk.css",
+    "static/js/main.0dd223ae.chunk.js"
+  ]
+}
